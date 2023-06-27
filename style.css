@@ -1,0 +1,37 @@
+@media screen and (min-width: 500px) {
+    .sidebar {
+        width: 300px;
+    }
+
+
+}
+
+.main-content-conteiner {
+    flex-grow: 1;
+    overflow: auto;
+}
+
+.sidebar {
+    width: 80px;
+}
+
+.my-img {
+    width: 50px;
+    height: 50px;
+}
+
+.bue {
+    background-color: rgb(30, 154, 242);
+}
+
+.my-img-sinistra {
+    max-width: 100px;
+}
+.my-list {
+    list-style-type: none;
+}
+
+.bg-success {
+    background-color: white;
+    --bs-bg-opacity: 0;
+}
